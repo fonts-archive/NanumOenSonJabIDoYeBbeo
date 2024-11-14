@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'NanumOenSonJabIDoYeBbeo';
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumOenSonJabIDoYeBbeo/NanumOenSonJabIDoYeBbeo.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumOenSonJabIDoYeBbeo/NanumOenSonJabIDoYeBbeo.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumOenSonJabIDoYeBbeo/NanumOenSonJabIDoYeBbeo.ttf') format('truetype');
+}
